@@ -1,0 +1,8 @@
+.parallax {
+    background-image: url(https://as1.ftcdn.net/jpg/03/32/89/40/500_F_332894026_5RfYz44RJwxZepw7D5hIAfLUt0oMcVwY.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
